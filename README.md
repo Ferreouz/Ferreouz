@@ -18,3 +18,7 @@ Banco de dados: MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Firebase
 - Aprender como a BlockChain funciona
 - Aprender como GPT funciona
 - Aprender como fazer Smarth Contracts
+
+## Me contate
+- 📫 [Email](mailto:g.f.guimaraes@hotmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielferreira-g)
