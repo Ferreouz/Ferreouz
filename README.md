@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Olá, me chamo Gabriel Ferreira, e sou um desenvolvedor focado atualmente em aprender novas tecnologias para criar impacto nas pessoas através de projetos inovadores.
 
-<!--
-**Ferreouz/Ferreouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim 👨🏻‍💻
+Possuo experiencia como analista de suporte de infraestrutura e lidei muito com chatbots. Também possuo experiência criando e desenvolvendo soluções para clientes no formato freelance. Tenho paixão em criar coisas que ajudam pessoas e resolvem um problema de maneira peculiar. 
 
-Here are some ideas to get you started:
+## Tech Skills 🛠️
+Linguagens de programação: JavaScript, TypeScript, PHP, Python  
+Tecnologias Web: React, Node.js, Laravel  
+Plataformas Cloud: AWS, Google Cloud Platform  
+Ferramentas DevOps: Docker, Kubernetes, Bash scripts, Linux, Git 
+Banco de dados: MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies 💡
+- Aprender coisas novas
+- Hackear máquinas virtuais em plataformas como HTB e TryHackMe
+
+## Objetivos atuais 🚀
+- Aprender como a BlockChain funciona
+- Aprender como GPT funciona
+- Aprender como fazer Smarth Contracts
