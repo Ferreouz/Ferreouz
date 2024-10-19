@@ -4,7 +4,7 @@
 Possuo experiencia como analista de suporte de infraestrutura e lidei muito com chatbots. Também possuo experiência criando e desenvolvendo soluções para clientes no formato freelance. Tenho paixão em criar coisas que ajudam pessoas e resolvem um problema de maneira peculiar. 
 
 ## Tech Skills 🛠️
-Linguagens de programação: JavaScript, TypeScript, PHP, Python  
+Linguagens de programação: JavaScript, TypeScript, PHP, Java  
 Tecnologias Web: React, Node.js, Laravel  
 Plataformas Cloud: AWS, Google Cloud Platform  
 Ferramentas DevOps: Docker, Kubernetes, Bash scripts, Linux, Git 
